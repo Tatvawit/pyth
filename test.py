@@ -1,1 +1,1 @@
-pri("hello world from git , v1")
+print("hello world from git , v1")
